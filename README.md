@@ -2,9 +2,9 @@
 
 This plugin let's you embed the [Highcharts Editor](https://www.highcharts.com/blog/products/highcharts-editor/) within Sanity.
 
-![Screenshot of doughnut graph in rich text editor](screenshot1.png?raw=true)
+![Screenshot of doughnut graph in rich text editor](screen1.png?raw=true)
 
-![Screenshot of Highcharts Editor in action](screenshot2.png?raw=true)
+![Screenshot of Highcharts Editor in action](screen2.png?raw=true)
 
 ## Installation
 
