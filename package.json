@@ -1,0 +1,25 @@
+{
+  "name": "sanity-plugin-highcharts-editor",
+  "version": "1.0.0",
+  "description": "Add Highcharts editor to Sanity.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir lib --copy-files --source-map",
+    "deploy": "npm run build && npm publish"
+  },
+  "author": "Nils Norman Haukås <mail@nilsnh.no> (https://nilsnh.no/)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "16.x"
+  },
+  "homepage": "https://github.com/nilsnh/sanity-plugin-highcharts-editor#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.3",
+    "@babel/plugin-proposal-class-properties": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "react-hot-loader": "^4.7.1"
+  }
+}
