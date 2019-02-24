@@ -1,6 +1,6 @@
 # Highcharts editor input plugin for Sanity CMS
 
-This plugin let's you embed the [Highcharts Editor](https://www.highcharts.com/blog/products/highcharts-editor/) within Sanity.
+This plugin let's you embed the [Highcharts Editor](https://www.highcharts.com/blog/products/highcharts-editor/) within Sanity. [Learn how I did it here](https://nilsnh.no/2019/02/23/how-to-add-the-highcharts-editor-to-sanity-or-how-to-insert-an-octagon-shaped-block-into-a-hexagon-shaped-slot/).
 
 ![Screenshot of Highcharts Editor in action](screen2.png?raw=true)
 
