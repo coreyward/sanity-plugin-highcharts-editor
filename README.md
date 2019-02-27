@@ -8,7 +8,7 @@ This plugin let's you embed the [Highcharts Editor](https://www.highcharts.com/b
 
 ## Installation
 
-1. Run `sanity install sanity-plugin-highcharts-editor` to install the plugin.
+1. Run `sanity install highcharts-editor` to install the plugin.
 1. Copy the `highcharts-assets/` folder into your Sanity project's static folder like so `/static/highcharts-assets/`.
 1. Run `sanity start`
 
