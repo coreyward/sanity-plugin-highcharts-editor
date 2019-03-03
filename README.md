@@ -2,9 +2,9 @@
 
 This plugin let's you embed the [Highcharts Editor](https://www.highcharts.com/blog/products/highcharts-editor/) within Sanity. [Learn how I did it here](https://nilsnh.no/2019/02/23/how-to-add-the-highcharts-editor-to-sanity-or-how-to-insert-an-octagon-shaped-block-into-a-hexagon-shaped-slot/).
 
-![Screenshot of Highcharts Editor in action](screen2.png?raw=true)
+![Screenshot of Highcharts Editor in action](https://github.com/nilsnh/sanity-plugin-highcharts-editor/blob/9321192d0f11fb60fa4721499c29a58fc8808cb5/screen2.png?raw=true)
 
-![Screenshot of doughnut graph in rich text editor](screen1.png?raw=true)
+![Screenshot of doughnut graph in rich text editor](https://github.com/nilsnh/sanity-plugin-highcharts-editor/blob/9321192d0f11fb60fa4721499c29a58fc8808cb5/screen1.png?raw=true)
 
 ## Installation
 
