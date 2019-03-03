@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-highcharts-editor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Add Highcharts editor to Sanity.",
   "main": "./lib/index.js",
   "scripts": {
