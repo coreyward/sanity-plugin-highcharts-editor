@@ -5,7 +5,7 @@
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src --out-dir lib --copy-files --source-map",
+    "build": "rimraf lib && babel src --out-dir lib --copy-files --source-map",
     "deploy": "npm run build && npm publish"
   },
   "author": "Nils Norman Haukås <mail@nilsnh.no> (https://nilsnh.no/)",
